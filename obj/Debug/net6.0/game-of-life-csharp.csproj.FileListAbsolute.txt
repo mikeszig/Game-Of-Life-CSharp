@@ -1,0 +1,15 @@
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\game-of-life-csharp.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\game-of-life-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\game-of-life-csharp.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\game-of-life-csharp.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\game-of-life-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\game-of-life-csharp.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\game-of-life-csharp\bin\Debug\net6.0\Life.exe
+C:\Users\Miguel\Desktop\game-of-life-csharp\bin\Debug\net6.0\Life.deps.json
+C:\Users\Miguel\Desktop\game-of-life-csharp\bin\Debug\net6.0\Life.runtimeconfig.json
+C:\Users\Miguel\Desktop\game-of-life-csharp\bin\Debug\net6.0\Life.dll
+C:\Users\Miguel\Desktop\game-of-life-csharp\bin\Debug\net6.0\Life.pdb
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\Life.dll
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\refint\Life.dll
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\Life.pdb
+C:\Users\Miguel\Desktop\game-of-life-csharp\obj\Debug\net6.0\ref\Life.dll
