@@ -6,6 +6,6 @@ args: width height \<path\>
 -height of map to be generated  
 -path of a map to load it (optional) if there's no value declared, map is randomly generated
 
-Case of use:
--Life width height
+Case of use:  
+-Life width height  
 -Life path
