@@ -1,4 +1,4 @@
-Game-Of-Life-CSharp
+Game-Of-Life-CSharp  
 Conway's Game Of Life on C#
 
 args: width height \<path\>  
